@@ -1,0 +1,1 @@
+# jetbrains-academy-hangman
